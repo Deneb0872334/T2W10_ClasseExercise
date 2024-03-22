@@ -1,0 +1,15 @@
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/bin/Debug/net7.0/Week10_ClassExercise
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/bin/Debug/net7.0/Week10_ClassExercise.deps.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/bin/Debug/net7.0/Week10_ClassExercise.runtimeconfig.json
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/bin/Debug/net7.0/Week10_ClassExercise.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/bin/Debug/net7.0/Week10_ClassExercise.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.csproj.AssemblyReference.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.AssemblyInfoInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.AssemblyInfo.cs
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.csproj.CoreCompileInputs.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/refint/Week10_ClassExercise.dll
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.pdb
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/Week10_ClassExercise.genruntimeconfig.cache
+/Users/Deneb/Documents/Lambton/2024_Winter/C#_[CSD2354]/Weekly/T2W10_ClasseExercise/Week10_ClassExercise/obj/Debug/net7.0/ref/Week10_ClassExercise.dll
